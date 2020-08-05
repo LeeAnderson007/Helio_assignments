@@ -1,0 +1,64 @@
+<movie>
+
+    <genre>Sci-Fi</genre>
+
+        <title>Dune</title>
+
+            <plot>Feature adaptation of Frank Herbert's science fiction novel, 
+                about the son of a noble family entrusted with the protection of 
+                the most valuable asset and most vital element in the galaxy.
+            </plot>
+
+                <cast>
+
+                    <actor>
+                        <name>Rebecca Ferguson</name>
+                        <role>Lady Chani</role>
+                    </actor>
+
+                    <actor>
+                        <name>Zendaya</name>
+                        <role>Chani</role>
+                    </actor>
+
+                    <actor>
+                        <name>Jason Momoa</name>
+                        <role>Duncan Idaho</role>
+                    </actor>
+
+                    <actor>
+                        <name>Timothee Chalamet</name>
+                        <role>Paul Atreides</role>
+                    </actor>
+                        
+                    <actor>
+                        <name>Dave Baustis</name>
+                        <role>Glossu 'Beast' Rabban</role>
+                    </actor>
+
+                </cast>
+
+                <writters>
+                    <name>Frank Herbert</name>
+                    <name>Eric Roth</name>
+                    <name>Denis Villeneuve</name>
+                    <name>Jon Spaihts</name>
+                </writters>
+                
+                <producers>
+                    <name>Per Henry Borch</name>
+                    <name>Cale Boyter</name>
+                    <name>Joseph M. Caracciolo Jr.</name>
+                    <name>Amanda Confavreux</name>
+                    <name>Herbert W. Gains</name>
+                </producers>
+                
+                <musicmaker>
+                    <name>Hans Zimmer</name>
+                </musicmaker>
+
+                <cinematography>
+                    <name>Greig Fraser</name>
+                </cinematography>
+
+</movie>
